@@ -5,6 +5,7 @@
 > **制作:** [@suguru789987](https://github.com/suguru789987) (PdM)
 > **担当範囲:** 費用実績入力フロー設計 / 地代家賃実績モーダル / UIロジック詳細 / 検証プラン / CS申し送り表(7ファイル) / ヘルプページ改訂申し送り
 > **ツール:** Claude Code / HTML / CSS / Markdown / TSV
+> **🌐 Live Demo:** https://suguru789987.github.io/expense-actual-registration/
 
 ---
 
